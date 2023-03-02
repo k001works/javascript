@@ -21,7 +21,7 @@ window.onload = function() {
       }
       // カウント終了確認
       if (i == NUM_COUNT_MAX) {
-        console.log(NUM_COUNT_MAX + "回カウントが終わりました。");
+        alert(NUM_COUNT_MAX + "回カウントが終わりました。");
       }
     }
   });
