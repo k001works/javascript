@@ -1,0 +1,14 @@
+.wrap {
+  padding: 30px;
+  text-align: center;
+}
+
+.wrap h1 {
+  margin-bottom: 30px;
+}
+
+#countButton {
+  width: 60%;
+  padding: 10px 0;
+  font-weight: bold;
+}
